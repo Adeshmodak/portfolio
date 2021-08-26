@@ -20,8 +20,8 @@ const greeting = {
     "I am an Electronics & Telecommunication graduate from PICT & have keen interest in Software field also Worked with IOT technologies which gives me to apply my combined hardware & Software knowledge with a lot of learning of different Technologies",
 
   resumeLink:
-    "https://drive.google.com/file/d/1xnccTeEry_QtbMddrzv4sGLe_N4sMIHR/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1pNxYCCD9SPMZOohfeXl0905x2ZSP1eym/view?usp=sharing",
+  portfolio_repository: "",
 };
 
 const socialMediaLinks = [
